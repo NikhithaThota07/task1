@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border:1px black solid;
+    width:1000px;
+    margin: 5px auto;
+}
+.header{
+    background-color: beige;
+    height: 100px;
+    width: 1000px;
+}
+.nav{
+    background-color: blueviolet;
+    height: 50px;
+   
+}
+.left{
+    background-color: blue;
+    height: 400px;
+    width: 200px;
+    float: left;
+}
+.content{
+    background-color: aquamarine;
+    height: 400px;
+    width: 600px;
+    float: left;
+    
+    
+
+}
+.right{
+    background-color: blue;
+    height: 400px;
+    width: 200px;
+    float: right;
+
+}
+
+.footer{
+    background-color: brown;
+    height: 100px;
+    width: 1000px;
+    clear: both;
+}
